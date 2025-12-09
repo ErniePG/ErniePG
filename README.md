@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Ernie
 
-<!--
-**ErniePG/ErniePG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-181717?style=for-the-badge&logo=flask)
+![MySQL](https://img.shields.io/badge/-MySQL-181717?style=for-the-badge&logo=mysql)
+
+---
+
+> [!tip]
+> "La simplicidad es un requisito previo para la confiabilidad." — Edsger W. Dijkstra
