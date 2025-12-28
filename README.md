@@ -1,14 +1,27 @@
-# 👋 ¡Hola! Soy Ernie
+<h1 align="center">👋 ¡Hola! Soy Ernie</h1>
 
----
+###
 
-### Tecnologías
+<h2 align="left">📋 Sobre mí</h2>
 
-![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-181717?style=for-the-badge&logo=flask)
-![MySQL](https://img.shields.io/badge/-MySQL-181717?style=for-the-badge&logo=mysql)
+###
 
----
+<p align="left">Desarollador encargado de crear y compartir soluciones digitales.</p>
 
-> [!tip]
-> "La simplicidad es un requisito previo para la confiabilidad." — Edsger W. Dijkstra
+###
+
+<h2 align="left">👨🏻‍💻 Tecnologías</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="25" alt="flask logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="25" alt="fastapi logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  />
+</div>
+
+###
